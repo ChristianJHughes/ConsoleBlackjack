@@ -5,4 +5,4 @@ The player competes against a computerized "House" player in a game of tradtiona
 
 The standard rules for Blackjack can be found [here](https://en.wikipedia.org/wiki/Blackjack).
 
-![Console Screenshot](http://i.imgur.com/QYSd35F.png "Console Screenshot")
+![Console Screenshot](http://i.imgur.com/xirAgsf.png "Console Screenshot")
